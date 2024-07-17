@@ -1,0 +1,8 @@
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+v17/
+.vsconfig
+KnightAdventures.sln
